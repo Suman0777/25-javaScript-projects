@@ -16,7 +16,8 @@ Welcome to the **25 JavaScript Projects** repository! This collection is a journ
 2. **[Project 2: color finneder]**
    - _it is a colour finnder wesite where you can find the colur and use it there are 2 slide one for the hex and other for the level (range)._
    
-
+3. **[Project 2: Star_Rate]**
+   -_ it is a rating syetem which is generally use to rate the product according to there performance in the range of five._
 
 
 ## How to Use This Repository
