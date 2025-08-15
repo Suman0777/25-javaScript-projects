@@ -15,5 +15,18 @@ stats.forEach((starItem, index) => {
 function handleMouseOver(event) {
     const currentRatingValue = event.target.dataset.rating;
     if(!currentRatingValue) return
-    else 
+    else {
+        handleUpdateRatingStats(currentRatingValue);
+    }
+}
+
+function handleUpdateRatingStats(getCurrentRatingValue){
+    const ratingValue = Number(getCurrentRatingValue); // Convert to number
+    for(let i=0; i<stats.length; i++){
+        if(i < ratingValue){
+            stats[i].classList.add('selected');
+        } else {
+            stats[i].classList.remove('selected');
+        }
+    }
 }

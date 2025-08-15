@@ -15,10 +15,6 @@ Welcome to the **25 JavaScript Projects** repository! This collection is a journ
 
 2. **[Project 2: color finneder]**
    - _it is a colour finnder wesite where you can find the colur and use it there are 2 slide one for the hex and other for the level (range)._
-   
-
-
-
 ## How to Use This Repository
 
 1. **Clone the Repo**
