@@ -19,7 +19,7 @@ Each project focuses on core JS concepts like DOM manipulation, API calls, event
 ---
 
 ## 🚀 Projects List
-
+```
 ### 1. Drop-Down Menu
 A simple dropdown menu with toggle functionality. Great for learning about **event listeners** and **DOM manipulation**.
 
@@ -64,6 +64,7 @@ Fetches and displays random images on button click. Demonstrates **API calls** a
 
 ### 15. GitHub Profile Finder
 Fetches GitHub user profiles via the GitHub API. Displays **profile picture, followers, repos**, etc. Teaches **REST API integration**.
+```
 
 ---
 
