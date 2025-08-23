@@ -1,20 +1,20 @@
-# 25 JavaScript Projects
+# 15 JavaScript Projects
 
-Welcome to the **25 JavaScript Projects** repository! This collection is a journey through 25 hands-on JavaScript projects, designed to improve your skills, deepen your understanding, and have fun with the web's most popular programming language.
+Welcome to the **25 JavaScript Projects** repository! This collection is a journey through 15 hands-on JavaScript projects, designed to improve your skills, deepen your understanding, and have fun with the web's most popular programming language.
 
 ## About the Repository
 
-- **Goal:** Complete 25 creative and practical JavaScript projects.
-- **Status:** 2 out of 25 projects completed so far.
-- **Learning Focus:** Each project covers different JavaScript concepts, DOM manipulation, event handling, API integration, and more.
+- **Goal:** Complete 15 creative and practical JavaScript projects.  
+- **Status:** 15 out of 15 projects completed successfully.  
+- **Learning Focus:** Each project explores different JavaScript concepts, including DOM manipulation, event handling, API integration, UI components, and more.  
 
 ## Completed Projects
 
-# 25 JavaScript Projects
+# 15 JavaScript Projects
 
-Welcome to **25 JavaScript Projects** 🎉  
-This repository contains 25 beginner-to-intermediate JavaScript projects.  
-Each project focuses on core JS concepts like DOM manipulation, API calls, event handling, and game logic.
+Welcome to **15 JavaScript Projects** 🎉  
+This repository contains 15 beginner-to-intermediate JavaScript projects.  
+Each project focuses on core JS concepts like DOM manipulation, API calls, event handling, UI components, and game logic.  
 
 ---
 
@@ -100,13 +100,14 @@ Fetches GitHub user profiles via the GitHub API. Displays **profile picture, fol
    - Open the `index.html` file in your browser, or use a local server if needed.
 
 
-## Coming Soon
+## Completion
 
-Stay tuned! More projects will be added regularly as I progress toward 25 complete JavaScript projects.
+All 15 projects have been successfully completed ✅  
+This repository now serves as a collection of JavaScript mini-projects for practice and reference.
 
 ## Contributing
 
-This repository is primarily for personal learning, but if you have ideas or want to contribute, feel free to open an issue or pull request.
+This repository is primarily for personal learning, but if you have suggestions for improvements or enhancements, feel free to open an issue or pull request.
 
 ## License
 
