@@ -69,8 +69,25 @@ Fetches GitHub user profiles via the GitHub API. Displays **profile picture, fol
 
 ## 📂 Project Structure
 
-
-
+```
+25-javaScript-projects/
+├── 1.Drop-down/
+├── 2.colour_palet_jv/
+├── 3.Star_Rate/
+├── 4.Api_call/
+├── 5.image_slider/
+├── 6.Load_more/
+├── 7.light_drak_theme/
+├── 8.Loader/
+├── 9.Custum_tab/
+├── 10.coustom_pop_up/
+├── 11.Tic_tac_to/
+├── 12.Filter_cards/
+├── 13.Or_codegenerator/
+├── 14.Random_image_generator/
+├── 15.Git-profile-finder/
+└── README.md
+```
 
 ## How to Use This Repository
 
@@ -82,26 +99,6 @@ Fetches GitHub user profiles via the GitHub API. Displays **profile picture, fol
    - Navigate to the project folder you want to explore.
    - Open the `index.html` file in your browser, or use a local server if needed.
 
-## Project Structure
-
-- Each project is organized in its own folder.
-- Inside each folder, you'll find the necessary HTML, CSS, and JavaScript files.
-
-```
-25-javaScript-projects/
-│
-├── project-1/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── project-2/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── ...
-```
 
 ## Coming Soon
 
